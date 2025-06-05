@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "stdbool.h": "c",
+        "wifi_config.h": "c",
+        "wifi_function.h": "c",
+        "cjson.h": "c",
+        "string.h": "c",
+        "exception": "c",
+        "new": "c",
+        "usart.h": "c",
+        "led.h": "c"
+    }
+}
